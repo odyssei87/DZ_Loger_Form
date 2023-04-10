@@ -1,0 +1,264 @@
+Now listening on: https://localhost:7197
+Now listening on: http://localhost:5254
+Application started. Press Ctrl+C to shut down.
+Hosting environment: Development
+Content root path: C:\Users\Odyss\source\repos\DZ_Loger_Form\DZ_Loger_Form
+Path: /  Time:20:51:12
+Path: /api/users  Time:20:51:12
+Path: /favicon.ico  Time:20:51:13
+Path: /api/users  Time:20:51:23
+Path: /api/users/0475bfc1-7678-4444-a441-f1786f750422  Time:20:51:37
+Path: /  Time:20:51:40
+Path: /api/users  Time:20:51:40
+Path: /favicon.ico  Time:20:51:40
+Path: /  Time:20:51:49
+Path: /api/users  Time:20:51:49
+Path: /favicon.ico  Time:20:51:49
+Path: /api/users  Time:20:51:56
+Path: /  Time:20:52:20
+Path: /api/users  Time:20:52:20
+Path: /favicon.ico  Time:20:52:20
+Path: /api/users  Time:20:52:25
+Path: /api/users/b6afcccf-81c9-452d-8f10-19d669f2147b  Time:20:52:28
+Path: /api/users/e2e68ab8-ac01-454a-b79a-ac8542a793f3  Time:20:52:30
+Path: /  Time:20:52:31
+Path: /api/users  Time:20:52:31
+Path: /favicon.ico  Time:20:52:31
+Now listening on: https://localhost:7197
+Now listening on: http://localhost:5254
+Application started. Press Ctrl+C to shut down.
+Hosting environment: Development
+Content root path: C:\Users\Odyss\source\repos\DZ_Loger_Form\DZ_Loger_Form
+Path: /  Time:21:38:44
+Path: /api/users  Time:21:38:44
+Path: /favicon.ico  Time:21:38:44
+Path: /api/users  Time:21:38:53
+Path: /api/users  Time:21:39:02
+Path: /api/users/f60ce0a5-dc48-4abb-a5a1-711f07118491  Time:21:39:04
+Path: /api/users/0484ab03-4d02-48d5-8432-8cc9aab97b93  Time:21:39:04
+Now listening on: https://localhost:7197
+Now listening on: http://localhost:5254
+Application started. Press Ctrl+C to shut down.
+Hosting environment: Development
+Content root path: C:\Users\Odyss\source\repos\DZ_Loger_Form\DZ_Loger_Form
+Path: /  Time:22:26:42
+Path: /favicon.ico  Time:22:26:43
+Path: /  Time:22:28:55
+Path: /favicon.ico  Time:22:28:55
+Now listening on: https://localhost:7197
+Now listening on: http://localhost:5254
+Application started. Press Ctrl+C to shut down.
+Hosting environment: Development
+Content root path: C:\Users\Odyss\source\repos\DZ_Loger_Form\DZ_Loger_Form
+Path: /  Time:22:29:02
+Path: /favicon.ico  Time:22:29:02
+Path: /  Time:22:29:14
+Path: /api/users  Time:22:29:15
+Path: /favicon.ico  Time:22:29:15
+Path: /  Time:22:35:51
+Path: /api/users  Time:22:35:51
+Path: /favicon.ico  Time:22:35:51
+Path: /api/users/4599fccd-b3f5-4ecc-ae5a-da1a15991eca  Time:22:35:52
+Now listening on: https://localhost:7197
+Now listening on: http://localhost:5254
+Application started. Press Ctrl+C to shut down.
+Hosting environment: Development
+Content root path: C:\Users\Odyss\source\repos\DZ_Loger_Form\DZ_Loger_Form
+Path: /  Time:22:37:40
+Path: /favicon.ico  Time:22:37:40
+Now listening on: https://localhost:7197
+Now listening on: http://localhost:5254
+Application started. Press Ctrl+C to shut down.
+Hosting environment: Development
+Content root path: C:\Users\Odyss\source\repos\DZ_Loger_Form\DZ_Loger_Form
+Path: /  Time:22:39:13
+Path: /favicon.ico  Time:22:39:13
+Path: /  Time:22:39:29
+Path: /favicon.ico  Time:22:39:29
+Now listening on: https://localhost:7197
+Now listening on: http://localhost:5254
+Application started. Press Ctrl+C to shut down.
+Hosting environment: Development
+Content root path: C:\Users\Odyss\source\repos\DZ_Loger_Form\DZ_Loger_Form
+Path: /  Time:22:39:37
+Path: /favicon.ico  Time:22:39:37
+Now listening on: https://localhost:7197
+Now listening on: http://localhost:5254
+Application started. Press Ctrl+C to shut down.
+Hosting environment: Development
+Content root path: C:\Users\Odyss\source\repos\DZ_Loger_Form\DZ_Loger_Form
+Path: /  Time:22:40:36
+Path: /favicon.ico  Time:22:40:37
+Now listening on: https://localhost:7197
+Now listening on: http://localhost:5254
+Application started. Press Ctrl+C to shut down.
+Hosting environment: Development
+Content root path: C:\Users\Odyss\source\repos\DZ_Loger_Form\DZ_Loger_Form
+Path: /  Time:22:42:08
+Path: /favicon.ico  Time:22:42:09
+Now listening on: https://localhost:7197
+Now listening on: http://localhost:5254
+Application started. Press Ctrl+C to shut down.
+Hosting environment: Development
+Content root path: C:\Users\Odyss\source\repos\DZ_Loger_Form\DZ_Loger_Form
+Path: /  Time:22:55:07
+Path: /api/users  Time:22:55:07
+Path: /favicon.ico  Time:22:55:08
+Path: /api/users/33b1d416-7b95-4657-81b3-9bae2665318a  Time:22:55:09
+Now listening on: https://localhost:7197
+Now listening on: http://localhost:5254
+Application started. Press Ctrl+C to shut down.
+Hosting environment: Development
+Content root path: C:\Users\Odyss\source\repos\DZ_Loger_Form\DZ_Loger_Form
+Path: /  Time:23:05:11
+Path: /api/users  Time:23:05:11
+Path: /favicon.ico  Time:23:05:11
+Path: /  Time:23:12:04
+Path: /favicon.ico  Time:23:12:04
+Path: /  Time:23:12:04
+Path: /favicon.ico  Time:23:12:04
+Path: /  Time:23:12:24
+Path: /favicon.ico  Time:23:12:24
+Path: /  Time:23:15:07
+Path: /api/users  Time:23:15:07
+Path: /favicon.ico  Time:23:15:08
+Now listening on: https://localhost:7197
+Now listening on: http://localhost:5254
+Application started. Press Ctrl+C to shut down.
+Hosting environment: Development
+Content root path: C:\Users\Odyss\source\repos\DZ_Loger_Form\DZ_Loger_Form
+Path: /  Time:23:35:15
+Path: /api/users  Time:23:35:15
+Path: /favicon.ico  Time:23:35:15
+Now listening on: https://localhost:7197
+Now listening on: http://localhost:5254
+Application started. Press Ctrl+C to shut down.
+Hosting environment: Development
+Content root path: C:\Users\Odyss\source\repos\DZ_Loger_Form\DZ_Loger_Form
+Path: /  Time:23:37:00
+Path: /api/users  Time:23:37:00
+Path: /favicon.ico  Time:23:37:00
+Now listening on: https://localhost:7197
+Now listening on: http://localhost:5254
+Application started. Press Ctrl+C to shut down.
+Hosting environment: Development
+Content root path: C:\Users\Odyss\source\repos\DZ_Loger_Form\DZ_Loger_Form
+Path: /  Time:23:39:20
+Path: /api/users  Time:23:39:20
+Path: /favicon.ico  Time:23:39:20
+Now listening on: https://localhost:7197
+Now listening on: http://localhost:5254
+Application started. Press Ctrl+C to shut down.
+Hosting environment: Development
+Content root path: C:\Users\Odyss\source\repos\DZ_Loger_Form\DZ_Loger_Form
+Path: /  Time:23:41:42
+Path: /api/users  Time:23:41:42
+Path: /favicon.ico  Time:23:41:42
+Now listening on: https://localhost:7197
+Now listening on: http://localhost:5254
+Application started. Press Ctrl+C to shut down.
+Hosting environment: Development
+Content root path: C:\Users\Odyss\source\repos\DZ_Loger_Form\DZ_Loger_Form
+Path: /  Time:23:42:47
+Path: /favicon.ico  Time:23:42:47
+Now listening on: https://localhost:7197
+Now listening on: http://localhost:5254
+Application started. Press Ctrl+C to shut down.
+Hosting environment: Development
+Content root path: C:\Users\Odyss\source\repos\DZ_Loger_Form\DZ_Loger_Form
+Path: /  Time:20:34:30
+Path: /api/users  Time:20:34:30
+Path: /favicon.ico  Time:20:34:30
+Path: /api/users  Time:20:34:38
+Path: /api/users/85290790-d226-4663-b11b-0d52c2b5c55e  Time:20:34:39
+Path: /api/users/0dbba221-e5cc-4609-8470-87ef553d4e3d  Time:20:34:40
+Path: /api/users/db03d9e8-236f-4d5f-b540-3456b8de4e64  Time:20:34:40
+Path: /api/users/d1347166-9259-47f4-90d0-57e515e3cf1e  Time:20:34:41
+Now listening on: https://localhost:7197
+Now listening on: http://localhost:5254
+Application started. Press Ctrl+C to shut down.
+Hosting environment: Development
+Content root path: C:\Users\Odyss\source\repos\DZ_Loger_Form\DZ_Loger_Form
+Path: /  Time:21:12:55
+Path: /api/users  Time:21:12:55
+Path: /favicon.ico  Time:21:12:55
+Path: /api/users/07e96b88-45be-46ed-a6f3-887fd5c8f22e  Time:21:12:58
+Path: /api/users  Time:21:13:03
+Path: /api/users/b488f4dc-d28e-42f8-9884-bab44023762a  Time:21:13:05
+Path: /api/users  Time:21:13:08
+Now listening on: https://localhost:7197
+Now listening on: http://localhost:5254
+Application started. Press Ctrl+C to shut down.
+Hosting environment: Development
+Content root path: C:\Users\Odyss\source\repos\DZ_Loger_Form\DZ_Loger_Form
+Path: /  Time:21:51:47
+Path: /api/users  Time:21:51:47
+Path: /favicon.ico  Time:21:51:48
+Path: /api/users  Time:21:52:14
+Now listening on: https://localhost:7197
+Now listening on: http://localhost:5254
+Application started. Press Ctrl+C to shut down.
+Hosting environment: Development
+Content root path: C:\Users\Odyss\source\repos\DZ_Loger_Form\DZ_Loger_Form
+Path: /  Time:21:55:27
+Path: /api/users  Time:21:55:27
+Path: /favicon.ico  Time:21:55:27
+Path: /  Time:21:56:32
+Path: /api/users  Time:21:56:32
+Path: /favicon.ico  Time:21:56:32
+Now listening on: https://localhost:7197
+Now listening on: http://localhost:5254
+Application started. Press Ctrl+C to shut down.
+Hosting environment: Development
+Content root path: C:\Users\Odyss\source\repos\DZ_Loger_Form\DZ_Loger_Form
+Path: /  Time:21:56:36
+Path: /api/users  Time:21:56:36
+Path: /favicon.ico  Time:21:56:36
+Now listening on: https://localhost:7197
+Now listening on: http://localhost:5254
+Application started. Press Ctrl+C to shut down.
+Hosting environment: Development
+Content root path: C:\Users\Odyss\source\repos\DZ_Loger_Form\DZ_Loger_Form
+Path: /  Time:21:56:42
+Path: /api/users  Time:21:56:42
+Path: /favicon.ico  Time:21:56:42
+Now listening on: https://localhost:7197
+Now listening on: http://localhost:5254
+Application started. Press Ctrl+C to shut down.
+Hosting environment: Development
+Content root path: C:\Users\Odyss\source\repos\DZ_Loger_Form\DZ_Loger_Form
+Path: /  Time:21:59:04
+Path: /api/users  Time:21:59:04
+Path: /favicon.ico  Time:21:59:04
+Now listening on: https://localhost:7197
+Now listening on: http://localhost:5254
+Application started. Press Ctrl+C to shut down.
+Hosting environment: Development
+Content root path: C:\Users\Odyss\source\repos\DZ_Loger_Form\DZ_Loger_Form
+Path: /  Time:19:30:06
+Path: /api/users  Time:19:30:08
+Path: /favicon.ico  Time:19:30:33
+Now listening on: https://localhost:7197
+Now listening on: http://localhost:5254
+Application started. Press Ctrl+C to shut down.
+Hosting environment: Development
+Content root path: C:\Users\Odyss\source\repos\DZ_Loger_Form\DZ_Loger_Form
+Path: /  Time:19:31:01
+Path: /api/users  Time:19:31:02
+Path: /favicon.ico  Time:19:31:02
+Now listening on: https://localhost:7197
+Now listening on: http://localhost:5254
+Application started. Press Ctrl+C to shut down.
+Hosting environment: Development
+Content root path: C:\Users\Odyss\source\repos\DZ_Loger_Form\DZ_Loger_Form
+Path: /  Time:19:31:34
+Path: /api/users  Time:19:31:34
+Path: /favicon.ico  Time:19:31:34
+Now listening on: https://localhost:7197
+Now listening on: http://localhost:5254
+Application started. Press Ctrl+C to shut down.
+Hosting environment: Development
+Content root path: C:\Users\Odyss\source\repos\DZ_Loger_Form\DZ_Loger_Form
+Path: /  Time:19:32:09
+Path: /api/users  Time:19:32:09
+Path: /favicon.ico  Time:19:32:09
